@@ -4,14 +4,14 @@
   <v-container>
       <v-navigation-drawer
         v-model="drawer"
-        :height="height"
         :color="color"
-        :width="width"
+        :width="200"
         :expand-on-hover="true"
         :mini-variant-width="70"
         :right="false"
         :permanent="true"
         :fixed="true"
+        class="nav-bar"
         absolute
         dark
       >
@@ -20,7 +20,9 @@
           nav
           class="py-0"
         >
-          <v-list-item two-line :class="miniVariant && 'px-0'">
+          <v-list-item 
+          id="titlebar"
+          two-line :class="miniVariant && 'px-0'">
             <v-list-item-avatar>
               <img src="../../public/me.jpg">
             </v-list-item-avatar>
@@ -34,19 +36,39 @@
             </v-list-item>
 
           <v-divider></v-divider>
-          <v-list-item
-            v-for="item in items"
-            :key="item.title"
-            link
-          >
-            <v-list-item-icon class="list-item">
-              <v-icon>{{ item.icon }} </v-icon>
-            </v-list-item-icon>
+          <div class="items-container">
+            <v-list-item
+              v-for="item in items"
+              :key="item.title"
+              link
+            >
+              <v-list-item-icon class="">
+                <v-icon>{{ item.icon }} </v-icon>
+              </v-list-item-icon>
 
+              <v-list-item-content>
+                <v-list-item-title>{{ item.title }}</v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+            <button
+              @click="closeApp"
+            >
+              <v-list-item 
+              class="last-item" 
+              link
+            >
+              <v-list-item-icon>
+              <v-icon>mdi-close</v-icon>
+            </v-list-item-icon>
             <v-list-item-content>
-              <v-list-item-title>{{ item.title }}</v-list-item-title>
-            </v-list-item-content>
-          </v-list-item>
+                <v-list-item-title>QUIT</v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+            </button>
+            
+          </div>
+          
+          
         </v-list>
       </v-navigation-drawer>
   </v-container>
@@ -54,21 +76,28 @@
 
 <script>
 export default {
-  name: 'nav',
+  name: 'Nav',
   data() {
     return {
       drawer: true,
       items: [
+        { title: 'Account', icon: 'mdi-account-box-outline'},
         { title: 'Home', icon: 'mdi-home' },
-        { title: 'Dashboard', icon: 'mdi-view-dashboard' },
-        { title: 'Photos', icon: 'mdi-image' },
-        { title: 'About', icon: 'mdi-help-box' },
+        { title: 'News', icon: 'mdi-newspaper' },
+        { title: 'Notifications', icon: 'mdi-notification-clear-all'},
+        { title: 'Assets', icon: 'mdi-notebook' }
       ],
+      miniVariant: true,
       color: '#334455',
-      width: window.innerWidth / 4,
-      mvwidth: window.innerWidth / 5,
+      width: 220,
+      mwidth: window.innerWidth / 3,
     };
   },
+  methods: {
+    closeApp() {
+      this.$store.dispatch('closeApp')
+    }
+  }
 };
 </script>
 
@@ -76,4 +105,33 @@ export default {
   * {
     padding: 0%;
   }
+
+  .nav-bar {
+    position: fixed;
+  }
+
+  .list-item {
+    display: flex;
+    flex-direction: column;
+    width: 100px
+  }
+
+  .items-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .last-item {
+    margin-top: auto;
+  }
+
+  #titlebar {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+
+.titlebar-button {
+  -webkit-app-region: no-drag;
+}
+
 </style>
