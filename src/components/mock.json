@@ -1,0 +1,264 @@
+{
+  "articles" : [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Sherisse Pham, CNN Business",
+      "title": "Hang Seng Index drops more than 5% as tensions flare up again between China and the west - CNN",
+      "description": "Hong Kong's Hang Seng Index dropped more than 5% Friday after news broke that Beijing would move to pass a hugely controversial national security law for the Asian financial hub.",
+      "url": "https://www.cnn.com/2020/05/21/investing/global-stocks/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200521210811-global-stocks-0522-super-tease.jpg",
+      "publishedAt": "2020-05-22T06:24:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nypost.com"
+      },
+      "author": "Fox News",
+      "title": "Dennis Rodman calls out Bulls teammates' over 'The Last Dance' complaints - New York Post ",
+      "description": "There has been mixed feedback about ESPN’s “The Last Dance” documentary about NBA icon Michael Jordan and the ‘90s Chicago Bulls, including from Jordan’s former teammates Horace Grant and Scottie P…",
+      "url": "https://nypost.com/2020/05/22/dennis-rodman-calls-out-bulls-teammates-over-the-last-dance/",
+      "urlToImage": "https://thenypost.files.wordpress.com/2020/05/dennis-rodman-1.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2020-05-22T04:45:30Z",
+      "content": "There has been mixed feedback about ESPNs The Last Dance documentary about NBA icon Michael Jordan and the 90s Chicago Bulls, including from Jordans former teammates Horace Grant and Scottie Pippen, who were apparently unhappy with how they were portrayed.\r\nD… [+2203 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnet.com"
+      },
+      "author": "Bonnie Burton",
+      "title": "Tenet trailer offers more clues to new Christopher Nolan mind bender - CNET",
+      "description": "John David Washington and Robert Pattinson star in Nolan's time-twisting spy thriller.",
+      "url": "https://www.cnet.com/news/new-tenet-trailer-offers-more-clues-to-christopher-nolan-mind-bender/",
+      "urlToImage": "https://cnet2.cbsistatic.com/img/qHsoEWefgHs-KqIgvulnbY8bqrA=/2020/05/21/2d2060b7-ea4a-4fd1-bbe6-233816482e93/twitter-in-stream-wide-tenet2.jpg",
+      "publishedAt": "2020-05-22T04:27:53Z",
+      "content": "John David Washington and Robert Pattinson in director Christopher Nolan's movie Tenet.\r\nWarner Bros. Pictures\r\nWith shades of Memento and Inception, Tenet is shaping up to be a mind-bender in the best way possible. Expect huge action set pieces, mystery and … [+1758 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Dom Calicchio",
+      "title": "Michigan care home patient, 75, brutally beaten in attack caught on video; Trump reacts - Fox News",
+      "description": "A shocking video surfacing Thursday showed a 75-year-old Michigan care home patient being beaten in a brutal, bloody attack.",
+      "url": "https://www.foxnews.com/us/michigan-care-home-patient-75-brutally-beaten-in-attack-caught-on-video-trump-reacts",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/iStock-1070981160.jpg",
+      "publishedAt": "2020-05-22T04:11:15Z",
+      "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. \r\nA shocking video surfacing Thursday showed a 75-year-old Michigan care home patient being beaten in a brutal, bloody attack.\r\nReports of the beating, at the Westwoo… [+2694 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Justin Carter",
+      "title": "Zack Snyder’s Justice League cut rumored to have 10 big differences - Polygon",
+      "description": "The HBO Max exclusive re-edit of Justice League will remove the reshoot footage produced by Joss Whedon and add new scenes and characters. The changes include everything from Darkseid, the Knightmare, more Superman, Martian Manhunter, and Green Lantern.",
+      "url": "https://www.polygon.com/2020/5/21/21266527/zack-snyder-cut-justice-league-changes-differences-darkseid-new-scenes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3KphRKbfeORuYnwF0YWdOrxOqPc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19992348/justice_league_movie_screencaps.com_12426.jpg",
+      "publishedAt": "2020-05-22T04:07:41Z",
+      "content": "After years of protests, petitions, often vicious pile-ons, and Twitter hashtags, what once seemed impossible is actually happening: WarnerMedia announced on Wednesday that HBO Max would #ReleasetheSnyderCut, and be home to a new version of the 2017 superhero… [+6873 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Marketwatch.com"
+      },
+      "author": "Mark DeCambre",
+      "title": "Dow futures fall ahead of Memorial Day weekend as investors watch China-U.S. tensions - MarketWatch",
+      "description": "",
+      "url": "https://www.marketwatch.com/story/dow-futures-fall-ahead-of-memorial-day-weekend-as-investors-watch-china-us-tensions-2020-05-21",
+      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IH030_wall_s_ZG_20200521230230.jpg",
+      "publishedAt": "2020-05-22T03:49:28Z",
+      "content": "U.S. stock-index futures late Thursday pointed to modest losses Friday but a strong weekly gain, as investors look ahead to a three-day weekend. Equity benchmarks will look to defend their sharp weekly gains amid rising Sino-American tensions and a holiday th… [+2368 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nytimes.com"
+      },
+      "author": "Matt Stevens",
+      "title": "Man on Zoom Call With 20 Others Is Killed by His Son, Police Say - The New York Times",
+      "description": "Several people on the Zoom video conference called 911, and the police arrested the son less than an hour later.",
+      "url": "https://www.nytimes.com/2020/05/21/nyregion/zoom-call-killing-long-island.html",
+      "urlToImage": "https://static01.nyt.com/images/2020/05/21/nyregion/21nyvirus-zoomkilling/21nyvirus-zoomkilling-facebookJumbo.jpg",
+      "publishedAt": "2020-05-22T03:48:26Z",
+      "content": "A 32-year-old Long Island man was arrested and charged with murder on Thursday after fatally stabbing his father while he was on a Zoom video chat with about 20 people, the authorities said.\r\nThe father, Dwight Powers, 72, had been participating in the Zoom c… [+2318 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "",
+      "title": "Amazon's multiplayer Pac-Man game is made for Twitch streaming - Engadget",
+      "description": "Amazon's upcoming live Pac-Man will let you play it directly inside the game's Twitch streaming channel.",
+      "url": "https://www.engadget.com/twitch-pac-man-live-studio-032908138.html",
+      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F02543e80-9bdb-11ea-bffd-ca617811de73&client=amp-blogside-v2&signature=03456955706f870b5cc6a16424997688feb9a596",
+      "publishedAt": "2020-05-22T03:47:42Z",
+      "content": "Amazon Games showed it’s a serious competitor with the new shooter Crucible and has an MMO on the way, but its next game is the one that makes the most sense for Twitch streaming. That’s because Pac-Man Live Studio is not just a variant of the arcade classic,… [+637 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura He, CNN Business",
+      "title": "China will not set an economic growth target amid 'great uncertainty' - CNN",
+      "description": "China will not set a specific target for economic growth this year — a sign of how much uncertainty the coronavirus pandemic has caused the world's second largest economy.",
+      "url": "https://www.cnn.com/2020/05/21/economy/china-economy-growth-target-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200521210251-01-china-economy-super-tease.jpg",
+      "publishedAt": "2020-05-22T03:03:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "LeBron James Is Always At The Right Place At The Right Time - Bleacher Report",
+      "description": "1-2 COMPELLING SENTENCES ABOUT THIS VIDEO Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1 Follow on IG: http://www.instagram.com/f/...",
+      "url": "https://www.youtube.com/watch?v=DU7bVMQfsgY",
+      "urlToImage": "https://i.ytimg.com/vi/DU7bVMQfsgY/maxresdefault.jpg",
+      "publishedAt": "2020-05-22T02:56:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fool.com"
+      },
+      "author": "Neil Patel",
+      "title": "Southwest Airlines Will Fly Again - Motley Fool",
+      "description": "Why it's a matter of when, not if, the airline industry rebounds.",
+      "url": "https://www.fool.com/investing/2020/05/21/southwest-airlines-will-fly-again.aspx",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/575506/gettyimages-1097481110.jpg",
+      "publishedAt": "2020-05-22T02:51:00Z",
+      "content": "A history of bankruptcies in the airline industry has usually kept quality-focused investors away. It's no surprise that the capital-intensive, cyclical nature of the business lends itself to wild swings in stock prices during unexpected economic shocks. Sout… [+3884 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Latimes.com"
+      },
+      "author": "Richard Winton",
+      "title": "Autopsies of 34 who died in Conception boat fire offer grim new details - Los Angeles Times",
+      "description": "Deadly Conception dive boat fire, coroner's records raise new questions over deaths",
+      "url": "https://www.latimes.com/california/story/2020-05-21/autopsies-of-34-boat-fire-victims-raises",
+      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/918d7ce/2147483647/strip/true/crop/3024x1588+0+308/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F52%2F3cc6c70f4e76996a2f2245add1cb%2Fla-me-boat-fire-103-h.jpg",
+      "publishedAt": "2020-05-22T02:46:41Z",
+      "content": "Within days of the dive boat Conception bursting into flames off the Channel Islands and killing 34 people, the Santa Barbara County coroner declared that the deaths were the result of smoke inhalation and that all died below deck.\r\nBut documents from the San… [+2970 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "CBS News",
+      "title": "Cases of rare inflammatory disease in children linked to COVID-19 spikes - CBS News",
+      "description": "There's a growing number of cases of the Multisystem Inflammatory Syndrome in Children, sometimes called Pediatric Multisystem Inflammatory Syndrome, affecting children. Now, doctors say they are seeing the illness in teens and young adults. Chip Reid has the…",
+      "url": "https://www.cbsnews.com/video/cases-of-rare-inflammatory-disease-in-children-linked-to-covid-19-spikes/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/21/63834446-15a9-45bb-8a5a-34ac3833e7e3/thumbnail/1200x630/87ecba5d508cb5c38ddd522e88c567b3/1590100938902-488443-640x360.jpg",
+      "publishedAt": "2020-05-22T01:55:43Z",
+      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lenny Bernstein",
+      "title": "More evidence emerges on why covid-19 is so much worse than the flu - The Washington Post",
+      "description": "Researchers found blood clots and vessel damage in the autopsied lungs of people killed by the disease.",
+      "url": "https://www.washingtonpost.com/health/more-evidence-emerges-on-why-covid-19-is-so-much-worse-than-the-flu/2020/05/21/e7814588-9ba5-11ea-a2b3-5c3f2d1586df_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WRYFVU3ZYI6VFKDET3TSLOK5Y.jpg&w=1440",
+      "publishedAt": "2020-05-22T01:54:24Z",
+      "content": "The observations in a small number of autopsied lungs buttress reports from physicians treating covid-19 patients. Doctors have described widespread damage to blood vessels and the presence of blood clots that would not be expected in a respiratory disease.\r\n… [+2587 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Sophie Lewis",
+      "title": "Climate change is causing Antarctica's snow to turn green, study says - CBS News",
+      "description": "As the climate warms, scientists expect more and more of the snowy desert to turn bright green.",
+      "url": "https://www.cbsnews.com/news/green-snow-algae-antarctica-spreading-climate-change/",
+      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/21/eb46c132-d9f1-4d95-ae63-33d6990f2230/thumbnail/1200x630/d5b5348821e45f5eb9448b48b9b0551d/screen-shot-2020-05-21-at-6-09-51-pm.png",
+      "publishedAt": "2020-05-22T01:47:02Z",
+      "content": "In coastal Antarctica, some snow isn't white — it's green. And while small amounts of the green snow have been visible for years, it's starting to spread across the continent because of climate change.\r\nAccording to a study published Wednesday in the journal … [+3344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Billboard.com"
+      },
+      "author": "Rania Aniftos",
+      "title": "Lana Del Rey Defends Her Comments on Fellow Female Singers, 'Racist' Backlash - Billboard",
+      "description": "",
+      "url": "https://www.billboard.com/articles/columns/pop/9388942/lana-del-rey-defends-herself-instagram",
+      "urlToImage": "https://static.billboard.com/files/media/lana-del-rey-grammy-awards-rc-2020-billboard-1548-1024x677.jpg",
+      "publishedAt": "2020-05-22T01:35:33Z",
+      "content": "After facing heavy criticism on thoughts she expressed via Instagram earlier on Thursday (May 21), Lana Del Rey is defending herself.\r\nIn her original post, the singer called out fellow female stars Doja Cat, Ariana Grande, Camila Cabello, Cardi B, Kehlani, N… [+2037 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "JEREMY B. WHITE",
+      "title": "Issa sues California over November mail-ballot election - POLITICO",
+      "description": "Republican congressional candidate Darrell Issa and a conservative group are suing to block California’s move to an all-mail November election.",
+      "url": "https://www.politico.com/states/california/story/2020/05/21/issa-sues-california-over-november-mail-ballot-election-1285467",
+      "urlToImage": "https://static.politico.com/95/38/6e4bb58542b6b985faab695f916b/181207-issa-comey-ap-773.jpg",
+      "publishedAt": "2020-05-22T01:29:32Z",
+      "content": "Darrell Issa | Manuel Balce Ceneta/AP Photo\r\nOAKLAND Republican congressional candidate Darrell Issa and a conservative group are suing to block Californias move to an all-mail November election.\r\nThey are legally challenging Gov. Gavin Newsoms directive that… [+2529 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbc.com"
+      },
+      "author": "Dan Mangan",
+      "title": "Trump doesn't wear coronavirus mask in public at Ford plant - CNBC",
+      "description": "Trump had a \"legal responsibility\" under state law to wear a mask for coronavirus protection when he visited Ford's plant, Michigan's attorney general said.",
+      "url": "https://www.cnbc.com/2020/05/21/trump-doesnt-wear-coronavirus-mask-to-ford-plant.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106547947-1590092760444gettyimages-1214449359.jpeg?v=1590094245",
+      "publishedAt": "2020-05-22T01:23:19Z",
+      "content": "President Donald Trump on Thursday did not wear a mask for coronavirus protection during the public part of touring a Ford Motor Co. plant in Michigan, despite a state law and company policy requiring facial coverings there.\r\nTrump, who has consistently refus… [+6321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnet.com"
+      },
+      "author": "Corinne Reichert",
+      "title": "Coronavirus not easily spread by touching surfaces or objects, CDC says - CNET",
+      "description": "The Centers for Disease Control and Prevention is emphasizing that this isn't the main way the virus is transmitted.",
+      "url": "https://www.cnet.com/health/coronavirus-not-easily-spread-by-touching-surfaces-or-objects-cdc-says/",
+      "urlToImage": "https://cnet3.cbsistatic.com/img/CjPmqyupxPAxfsflswaQByNVvGk=/756x567/2020/05/18/ff83e9d5-42ab-496b-9a93-de5cd16924e0/02-coronavirus-closed-park-yellow-tape.jpg",
+      "publishedAt": "2020-05-22T00:31:17Z",
+      "content": "A swing set closed as a precaution.\r\nJessica Dolcourt/CNET\r\nFor the most up-to-date news and information about the coronavirus pandemic, visit the WHO website.\r\nYou can't catch the coronavirus easily by touching surfaces or objects, the US Centers for Disease… [+1357 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ksl.com"
+      },
+      "author": "https://www.facebook.com/kslcom/",
+      "title": "Have You Seen This? Dad makes video diary for daughter with smart doorbell - KSL.com",
+      "description": "We truly live in an era where staying connected via anything is possible, and this dad proved it by creating a video journal for his daughter with a doorbell.",
+      "url": "https://www.ksl.com/article/46755929/have-you-seen-this-dad-makes-video-diary-for-daughter-with-smart-doorbell",
+      "urlToImage": "https://img.ksl.com/slc/2783/278311/27831132.jpg?filter=ksl/responsive_story_lg",
+      "publishedAt": "2020-05-22T00:27:55Z",
+      "content": "THE DOORSTEP A lot of electronics are getting smart these days. It started with the smartphone and has slowly evolved into smartwatches, smart homes, and smart everythings. Seriously, there are even smart doorknobs!\r\nRing smart doorknob videos are so popular,… [+1457 chars]"
+    }
+  ]
+}
