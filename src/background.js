@@ -1,6 +1,6 @@
 'use strict'
 
-import { app, protocol, BrowserWindow } from 'electron'
+import { app, protocol, BrowserWindow, ipcMain } from 'electron'
 import {
   createProtocol,
   /* installVueDevtools */
@@ -9,17 +9,30 @@ const isDevelopment = process.env.NODE_ENV !== 'production'
 
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
-let win
+let win;
 
 // Scheme must be registered before the app is ready
 protocol.registerSchemesAsPrivileged([{scheme: 'app', privileges: { secure: true, standard: true } }])
 
+
+
 function createWindow () {
   // Create the browser window.
-  win = new BrowserWindow({ width: 800, height: 600, webPreferences: {
+  win = new BrowserWindow(
+    { 
+      width: 800, 
+      height: 600,
+      x:400, 
+      y:100,
+      movable: true,
+      resizable: true,
+      frame: false,
+      backgroundColor: '#2e2c29',
+      webPreferences: {
     nodeIntegration: true
   } })
-  win.openDevTools = false;
+
+
   if (process.env.WEBPACK_DEV_SERVER_URL) {
     // Load the url of the dev server if in development mode
     win.loadURL(process.env.WEBPACK_DEV_SERVER_URL)
@@ -30,8 +43,14 @@ function createWindow () {
     win.loadURL('app://./index.html')
   }
 
+
+  ipcMain.addListener('close', () => {
+    console.log('close')
+    win.close();
+  })
+
   win.on('closed', () => {
-    win = null
+    win = null;
   })
 }
 
@@ -51,6 +70,7 @@ app.on('activate', () => {
     createWindow()
   }
 })
+
 
 // This method will be called when Electron has finished
 // initialization and is ready to create browser windows.
