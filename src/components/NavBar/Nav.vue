@@ -21,7 +21,6 @@
           class="py-0"
         >
           <v-list-item 
-          id="titlebar"
           two-line :class="miniVariant && 'px-0'">
             <v-list-item-avatar>
               <img src="../../public/me.jpg">
@@ -104,34 +103,11 @@ export default {
 <style scoped>
   * {
     padding: 0%;
+    margin: 0;
   }
 
   .nav-bar {
     position: fixed;
   }
-
-  .list-item {
-    display: flex;
-    flex-direction: column;
-    width: 100px
-  }
-
-  .items-container {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .last-item {
-    margin-top: auto;
-  }
-
-  #titlebar {
-  -webkit-user-select: none;
-  -webkit-app-region: drag;
-}
-
-.titlebar-button {
-  -webkit-app-region: no-drag;
-}
 
 </style>

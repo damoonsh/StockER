@@ -1,22 +1,22 @@
 <template>
   <div class="app-div">
-    <title class="titlebar"></title>
-    <Nav class="navbar"/>
-    <News class="news-feed"/>
+    <Nav class="navbar" />
+    <News class="news-feed" />
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import Nav from '../components/Nav.vue'
-import News from '../components/News'
+import Nav from "../components/NavBar/Nav";
+import News from "../components/News/news-page/News";
 
 export default {
-  name: 'Home',
+  name: "Home",
   components: {
-    Nav, News
+    Nav,
+    News
   }
-}
+};
 </script>
 
 <style scoped>
@@ -24,35 +24,36 @@ export default {
   -webkit-user-select: none;
   -webkit-app-region: drag;
 }
-  @media screen and (min-width: 30em) {
-		.app-div {
-      display: grid;
-      grid-template-columns: 80px 1fr auto;
-      grid-template-rows: 50px repeat(12, auto);
-    }
-    .nav-bar {
-      grid-column: 1/2;
-      grid-row: 3;
-    }
+@media screen and (min-width: 30em) {
+  .app-div {
+    display: grid;
+    grid-template-columns: 80px 1fr auto;
+    grid-template-rows: 50px repeat(12, auto);
+  }
 
-    .news-feed {
-      grid-column: 2/12;
-    }
-	}
+  .nav-bar {
+    grid-column: 1/2;
+    grid-row: 3;
+  }
 
-  @media screen and (min-width: 60em) {
-		.app-div {
-      background-color: #bdb6b0;
-      display: grid;
-      grid-template-columns: 70px 2.5fr auto;
-    }
+  .news-feed {
+    grid-column: 2/12;
+  }
+}
 
-    .nav-bar {
-      grid-template-columns: 1/2;
-    }
+@media screen and (min-width: 60em) {
+  .app-div {
+    background-color: #bdb6b0;
+    display: grid;
+    grid-template-columns: 70px 2.5fr auto;
+  }
 
-    .news-feed {
-      grid-template-columns: 2/14;
-    }
-	}
+  .nav-bar {
+    grid-column: 1/2;
+  }
+
+  .news-feed {
+    grid-column: 2/14;
+  }
+}
 </style>

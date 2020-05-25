@@ -26,8 +26,7 @@ function createWindow () {
       y:100,
       movable: true,
       resizable: true,
-      frame: false,
-      backgroundColor: '#2e2c29',
+      frame: true,
       webPreferences: {
     nodeIntegration: true
   } })

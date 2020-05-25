@@ -1,264 +1,195 @@
 {
-  "articles" : [
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Sherisse Pham, CNN Business",
-      "title": "Hang Seng Index drops more than 5% as tensions flare up again between China and the west - CNN",
-      "description": "Hong Kong's Hang Seng Index dropped more than 5% Friday after news broke that Beijing would move to pass a hugely controversial national security law for the Asian financial hub.",
-      "url": "https://www.cnn.com/2020/05/21/investing/global-stocks/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200521210811-global-stocks-0522-super-tease.jpg",
-      "publishedAt": "2020-05-22T06:24:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nypost.com"
-      },
-      "author": "Fox News",
-      "title": "Dennis Rodman calls out Bulls teammates' over 'The Last Dance' complaints - New York Post ",
-      "description": "There has been mixed feedback about ESPN’s “The Last Dance” documentary about NBA icon Michael Jordan and the ‘90s Chicago Bulls, including from Jordan’s former teammates Horace Grant and Scottie P…",
-      "url": "https://nypost.com/2020/05/22/dennis-rodman-calls-out-bulls-teammates-over-the-last-dance/",
-      "urlToImage": "https://thenypost.files.wordpress.com/2020/05/dennis-rodman-1.jpg?quality=90&strip=all&w=1200",
-      "publishedAt": "2020-05-22T04:45:30Z",
-      "content": "There has been mixed feedback about ESPNs The Last Dance documentary about NBA icon Michael Jordan and the 90s Chicago Bulls, including from Jordans former teammates Horace Grant and Scottie Pippen, who were apparently unhappy with how they were portrayed.\r\nD… [+2203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cnet.com"
-      },
-      "author": "Bonnie Burton",
-      "title": "Tenet trailer offers more clues to new Christopher Nolan mind bender - CNET",
-      "description": "John David Washington and Robert Pattinson star in Nolan's time-twisting spy thriller.",
-      "url": "https://www.cnet.com/news/new-tenet-trailer-offers-more-clues-to-christopher-nolan-mind-bender/",
-      "urlToImage": "https://cnet2.cbsistatic.com/img/qHsoEWefgHs-KqIgvulnbY8bqrA=/2020/05/21/2d2060b7-ea4a-4fd1-bbe6-233816482e93/twitter-in-stream-wide-tenet2.jpg",
-      "publishedAt": "2020-05-22T04:27:53Z",
-      "content": "John David Washington and Robert Pattinson in director Christopher Nolan's movie Tenet.\r\nWarner Bros. Pictures\r\nWith shades of Memento and Inception, Tenet is shaping up to be a mind-bender in the best way possible. Expect huge action set pieces, mystery and … [+1758 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Dom Calicchio",
-      "title": "Michigan care home patient, 75, brutally beaten in attack caught on video; Trump reacts - Fox News",
-      "description": "A shocking video surfacing Thursday showed a 75-year-old Michigan care home patient being beaten in a brutal, bloody attack.",
-      "url": "https://www.foxnews.com/us/michigan-care-home-patient-75-brutally-beaten-in-attack-caught-on-video-trump-reacts",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2020/03/iStock-1070981160.jpg",
-      "publishedAt": "2020-05-22T04:11:15Z",
-      "content": "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. \r\nA shocking video surfacing Thursday showed a 75-year-old Michigan care home patient being beaten in a brutal, bloody attack.\r\nReports of the beating, at the Westwoo… [+2694 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Justin Carter",
-      "title": "Zack Snyder’s Justice League cut rumored to have 10 big differences - Polygon",
-      "description": "The HBO Max exclusive re-edit of Justice League will remove the reshoot footage produced by Joss Whedon and add new scenes and characters. The changes include everything from Darkseid, the Knightmare, more Superman, Martian Manhunter, and Green Lantern.",
-      "url": "https://www.polygon.com/2020/5/21/21266527/zack-snyder-cut-justice-league-changes-differences-darkseid-new-scenes",
-      "urlToImage": "https://cdn.vox-cdn.com/thumbor/3KphRKbfeORuYnwF0YWdOrxOqPc=/0x0:1920x1005/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19992348/justice_league_movie_screencaps.com_12426.jpg",
-      "publishedAt": "2020-05-22T04:07:41Z",
-      "content": "After years of protests, petitions, often vicious pile-ons, and Twitter hashtags, what once seemed impossible is actually happening: WarnerMedia announced on Wednesday that HBO Max would #ReleasetheSnyderCut, and be home to a new version of the 2017 superhero… [+6873 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Marketwatch.com"
-      },
-      "author": "Mark DeCambre",
-      "title": "Dow futures fall ahead of Memorial Day weekend as investors watch China-U.S. tensions - MarketWatch",
-      "description": "",
-      "url": "https://www.marketwatch.com/story/dow-futures-fall-ahead-of-memorial-day-weekend-as-investors-watch-china-us-tensions-2020-05-21",
-      "urlToImage": "https://s.marketwatch.com/public/resources/images/MW-IH030_wall_s_ZG_20200521230230.jpg",
-      "publishedAt": "2020-05-22T03:49:28Z",
-      "content": "U.S. stock-index futures late Thursday pointed to modest losses Friday but a strong weekly gain, as investors look ahead to a three-day weekend. Equity benchmarks will look to defend their sharp weekly gains amid rising Sino-American tensions and a holiday th… [+2368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nytimes.com"
-      },
-      "author": "Matt Stevens",
-      "title": "Man on Zoom Call With 20 Others Is Killed by His Son, Police Say - The New York Times",
-      "description": "Several people on the Zoom video conference called 911, and the police arrested the son less than an hour later.",
-      "url": "https://www.nytimes.com/2020/05/21/nyregion/zoom-call-killing-long-island.html",
-      "urlToImage": "https://static01.nyt.com/images/2020/05/21/nyregion/21nyvirus-zoomkilling/21nyvirus-zoomkilling-facebookJumbo.jpg",
-      "publishedAt": "2020-05-22T03:48:26Z",
-      "content": "A 32-year-old Long Island man was arrested and charged with murder on Thursday after fatally stabbing his father while he was on a Zoom video chat with about 20 people, the authorities said.\r\nThe father, Dwight Powers, 72, had been participating in the Zoom c… [+2318 chars]"
-    },
-    {
-      "source": {
-        "id": "engadget",
-        "name": "Engadget"
-      },
-      "author": "",
-      "title": "Amazon's multiplayer Pac-Man game is made for Twitch streaming - Engadget",
-      "description": "Amazon's upcoming live Pac-Man will let you play it directly inside the game's Twitch streaming channel.",
-      "url": "https://www.engadget.com/twitch-pac-man-live-studio-032908138.html",
-      "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F02543e80-9bdb-11ea-bffd-ca617811de73&client=amp-blogside-v2&signature=03456955706f870b5cc6a16424997688feb9a596",
-      "publishedAt": "2020-05-22T03:47:42Z",
-      "content": "Amazon Games showed it’s a serious competitor with the new shooter Crucible and has an MMO on the way, but its next game is the one that makes the most sense for Twitch streaming. That’s because Pac-Man Live Studio is not just a variant of the arcade classic,… [+637 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Laura He, CNN Business",
-      "title": "China will not set an economic growth target amid 'great uncertainty' - CNN",
-      "description": "China will not set a specific target for economic growth this year — a sign of how much uncertainty the coronavirus pandemic has caused the world's second largest economy.",
-      "url": "https://www.cnn.com/2020/05/21/economy/china-economy-growth-target-intl-hnk/index.html",
-      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200521210251-01-china-economy-super-tease.jpg",
-      "publishedAt": "2020-05-22T03:03:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Youtube.com"
-      },
-      "author": null,
-      "title": "LeBron James Is Always At The Right Place At The Right Time - Bleacher Report",
-      "description": "1-2 COMPELLING SENTENCES ABOUT THIS VIDEO Subscribe: https://www.youtube.com/user/BleacherReport?sub_confirmation=1 Follow on IG: http://www.instagram.com/f/...",
-      "url": "https://www.youtube.com/watch?v=DU7bVMQfsgY",
-      "urlToImage": "https://i.ytimg.com/vi/DU7bVMQfsgY/maxresdefault.jpg",
-      "publishedAt": "2020-05-22T02:56:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fool.com"
-      },
-      "author": "Neil Patel",
-      "title": "Southwest Airlines Will Fly Again - Motley Fool",
-      "description": "Why it's a matter of when, not if, the airline industry rebounds.",
-      "url": "https://www.fool.com/investing/2020/05/21/southwest-airlines-will-fly-again.aspx",
-      "urlToImage": "https://g.foolcdn.com/editorial/images/575506/gettyimages-1097481110.jpg",
-      "publishedAt": "2020-05-22T02:51:00Z",
-      "content": "A history of bankruptcies in the airline industry has usually kept quality-focused investors away. It's no surprise that the capital-intensive, cyclical nature of the business lends itself to wild swings in stock prices during unexpected economic shocks. Sout… [+3884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Latimes.com"
-      },
-      "author": "Richard Winton",
-      "title": "Autopsies of 34 who died in Conception boat fire offer grim new details - Los Angeles Times",
-      "description": "Deadly Conception dive boat fire, coroner's records raise new questions over deaths",
-      "url": "https://www.latimes.com/california/story/2020-05-21/autopsies-of-34-boat-fire-victims-raises",
-      "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/918d7ce/2147483647/strip/true/crop/3024x1588+0+308/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fad%2F52%2F3cc6c70f4e76996a2f2245add1cb%2Fla-me-boat-fire-103-h.jpg",
-      "publishedAt": "2020-05-22T02:46:41Z",
-      "content": "Within days of the dive boat Conception bursting into flames off the Channel Islands and killing 34 people, the Santa Barbara County coroner declared that the deaths were the result of smoke inhalation and that all died below deck.\r\nBut documents from the San… [+2970 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "CBS News",
-      "title": "Cases of rare inflammatory disease in children linked to COVID-19 spikes - CBS News",
-      "description": "There's a growing number of cases of the Multisystem Inflammatory Syndrome in Children, sometimes called Pediatric Multisystem Inflammatory Syndrome, affecting children. Now, doctors say they are seeing the illness in teens and young adults. Chip Reid has the…",
-      "url": "https://www.cbsnews.com/video/cases-of-rare-inflammatory-disease-in-children-linked-to-covid-19-spikes/",
-      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/05/21/63834446-15a9-45bb-8a5a-34ac3833e7e3/thumbnail/1200x630/87ecba5d508cb5c38ddd522e88c567b3/1590100938902-488443-640x360.jpg",
-      "publishedAt": "2020-05-22T01:55:43Z",
-      "content": "Watch CBSN Live\r\nCopyright © 2020 CBS Interactive Inc. All rights reserved."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lenny Bernstein",
-      "title": "More evidence emerges on why covid-19 is so much worse than the flu - The Washington Post",
-      "description": "Researchers found blood clots and vessel damage in the autopsied lungs of people killed by the disease.",
-      "url": "https://www.washingtonpost.com/health/more-evidence-emerges-on-why-covid-19-is-so-much-worse-than-the-flu/2020/05/21/e7814588-9ba5-11ea-a2b3-5c3f2d1586df_story.html",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5WRYFVU3ZYI6VFKDET3TSLOK5Y.jpg&w=1440",
-      "publishedAt": "2020-05-22T01:54:24Z",
-      "content": "The observations in a small number of autopsied lungs buttress reports from physicians treating covid-19 patients. Doctors have described widespread damage to blood vessels and the presence of blood clots that would not be expected in a respiratory disease.\r\n… [+2587 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Sophie Lewis",
-      "title": "Climate change is causing Antarctica's snow to turn green, study says - CBS News",
-      "description": "As the climate warms, scientists expect more and more of the snowy desert to turn bright green.",
-      "url": "https://www.cbsnews.com/news/green-snow-algae-antarctica-spreading-climate-change/",
-      "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/05/21/eb46c132-d9f1-4d95-ae63-33d6990f2230/thumbnail/1200x630/d5b5348821e45f5eb9448b48b9b0551d/screen-shot-2020-05-21-at-6-09-51-pm.png",
-      "publishedAt": "2020-05-22T01:47:02Z",
-      "content": "In coastal Antarctica, some snow isn't white — it's green. And while small amounts of the green snow have been visible for years, it's starting to spread across the continent because of climate change.\r\nAccording to a study published Wednesday in the journal … [+3344 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Billboard.com"
-      },
-      "author": "Rania Aniftos",
-      "title": "Lana Del Rey Defends Her Comments on Fellow Female Singers, 'Racist' Backlash - Billboard",
-      "description": "",
-      "url": "https://www.billboard.com/articles/columns/pop/9388942/lana-del-rey-defends-herself-instagram",
-      "urlToImage": "https://static.billboard.com/files/media/lana-del-rey-grammy-awards-rc-2020-billboard-1548-1024x677.jpg",
-      "publishedAt": "2020-05-22T01:35:33Z",
-      "content": "After facing heavy criticism on thoughts she expressed via Instagram earlier on Thursday (May 21), Lana Del Rey is defending herself.\r\nIn her original post, the singer called out fellow female stars Doja Cat, Ariana Grande, Camila Cabello, Cardi B, Kehlani, N… [+2037 chars]"
-    },
-    {
-      "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "JEREMY B. WHITE",
-      "title": "Issa sues California over November mail-ballot election - POLITICO",
-      "description": "Republican congressional candidate Darrell Issa and a conservative group are suing to block California’s move to an all-mail November election.",
-      "url": "https://www.politico.com/states/california/story/2020/05/21/issa-sues-california-over-november-mail-ballot-election-1285467",
-      "urlToImage": "https://static.politico.com/95/38/6e4bb58542b6b985faab695f916b/181207-issa-comey-ap-773.jpg",
-      "publishedAt": "2020-05-22T01:29:32Z",
-      "content": "Darrell Issa | Manuel Balce Ceneta/AP Photo\r\nOAKLAND Republican congressional candidate Darrell Issa and a conservative group are suing to block Californias move to an all-mail November election.\r\nThey are legally challenging Gov. Gavin Newsoms directive that… [+2529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cnbc.com"
-      },
-      "author": "Dan Mangan",
-      "title": "Trump doesn't wear coronavirus mask in public at Ford plant - CNBC",
-      "description": "Trump had a \"legal responsibility\" under state law to wear a mask for coronavirus protection when he visited Ford's plant, Michigan's attorney general said.",
-      "url": "https://www.cnbc.com/2020/05/21/trump-doesnt-wear-coronavirus-mask-to-ford-plant.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106547947-1590092760444gettyimages-1214449359.jpeg?v=1590094245",
-      "publishedAt": "2020-05-22T01:23:19Z",
-      "content": "President Donald Trump on Thursday did not wear a mask for coronavirus protection during the public part of touring a Ford Motor Co. plant in Michigan, despite a state law and company policy requiring facial coverings there.\r\nTrump, who has consistently refus… [+6321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cnet.com"
-      },
-      "author": "Corinne Reichert",
-      "title": "Coronavirus not easily spread by touching surfaces or objects, CDC says - CNET",
-      "description": "The Centers for Disease Control and Prevention is emphasizing that this isn't the main way the virus is transmitted.",
-      "url": "https://www.cnet.com/health/coronavirus-not-easily-spread-by-touching-surfaces-or-objects-cdc-says/",
-      "urlToImage": "https://cnet3.cbsistatic.com/img/CjPmqyupxPAxfsflswaQByNVvGk=/756x567/2020/05/18/ff83e9d5-42ab-496b-9a93-de5cd16924e0/02-coronavirus-closed-park-yellow-tape.jpg",
-      "publishedAt": "2020-05-22T00:31:17Z",
-      "content": "A swing set closed as a precaution.\r\nJessica Dolcourt/CNET\r\nFor the most up-to-date news and information about the coronavirus pandemic, visit the WHO website.\r\nYou can't catch the coronavirus easily by touching surfaces or objects, the US Centers for Disease… [+1357 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Ksl.com"
-      },
-      "author": "https://www.facebook.com/kslcom/",
-      "title": "Have You Seen This? Dad makes video diary for daughter with smart doorbell - KSL.com",
-      "description": "We truly live in an era where staying connected via anything is possible, and this dad proved it by creating a video journal for his daughter with a doorbell.",
-      "url": "https://www.ksl.com/article/46755929/have-you-seen-this-dad-makes-video-diary-for-daughter-with-smart-doorbell",
-      "urlToImage": "https://img.ksl.com/slc/2783/278311/27831132.jpg?filter=ksl/responsive_story_lg",
-      "publishedAt": "2020-05-22T00:27:55Z",
-      "content": "THE DOORSTEP A lot of electronics are getting smart these days. It started with the smartphone and has slowly evolved into smartwatches, smart homes, and smart everythings. Seriously, there are even smart doorknobs!\r\nRing smart doorknob videos are so popular,… [+1457 chars]"
-    }
-  ]
+	"articles": [
+		{
+			"source": { "id": null, "name": "Youtube.com" },
+			"author": null,
+			"title": "Khloe Kardashian's Epic Hair Transformation - E! News",
+			"description": "Who says blondes have more fun? The \"KUWTK\" star ditches her signature platinum hair for a new bold color. See how Khloe's ex Tristan Thompson reacts to the ...",
+			"url": "https://www.youtube.com/watch?v=b0NmskH9jjA",
+			"urlToImage": "https://i.ytimg.com/vi/b0NmskH9jjA/maxresdefault.jpg",
+			"publishedAt": "2020-05-23T18:25:46Z",
+			"content": "Who says blondes have more fun? The \"KUWTK\" star ditches her signature platinum hair for a new bold color. See how Khloe's ex Tristan Thompson reacts to the makeover."
+		},
+	
+		{
+			"source": { "id": null, "name": "Dailymail.co.uk" },
+			"author": "By Christine Rendon Carly Johnson For Dailymail.com",
+			"title": "Khloe Kardashian's new look catches ex Tristan Thompson attention - Daily Mail",
+			"description": "The Cleveland Cavaliers player was quite complimentary as he left a comment for Khloe under her Instagram post, writing, 'Baddie (heart emoji). P.S. I'm all for the caption.'",
+			"url": "https://www.dailymail.co.uk/tvshowbiz/article-8350999/Khloe-Kardashians-new-look-catches-ex-Tristan-Thompson-attention.html",
+			"urlToImage": "https://i.dailymail.co.uk/1s/2020/05/23/18/28744912-0-image-a-12_1590255460623.jpg",
+			"publishedAt": "2020-05-23T18:20:31Z",
+			"content": "Khloe Kardashian got fans talking after she debuted a totally new look on Friday.\r\nBut it turns out the dramatic transformation also caught the attention of her ex-boyfriend, Tristan Thompson.\r\nThe C… [+6404 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Vulture.com" },
+			"author": "Devon Ivie",
+			"title": "Kelly Ripa Has Been Live From the Caribbean This Entire Time - Vulture",
+			"description": "Secret’s out!",
+			"url": "http://www.vulture.com/2020/05/coronavirus-kelly-ripa-has-been-quarantining-in-caribbean.html",
+			"urlToImage": "https://pyxis.nymag.com/v1/imgs/1b8/f2a/4d44c3ab8146d3e9a1460769bf4feb2303-GettyImages-1210449578.1x.rsocial.w1200.jpg",
+			"publishedAt": "2020-05-23T18:18:41Z",
+			"content": "Kristin Cavallari walked along the sandy beaches to the palapa so Kelly Ripa could run along the sandy beaches to the palapa. As revealed during an ABC town-hall meeting earlier this week, Ripa; her … [+1220 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Vulture.com" },
+			"author": "Devon Ivie",
+			"title": "Kelly Ripa Has Been Live From the Caribbean This Entire Time - Vulture",
+			"description": "Secret’s out!",
+			"url": "http://www.vulture.com/2020/05/coronavirus-kelly-ripa-has-been-quarantining-in-caribbean.html",
+			"urlToImage": "https://pyxis.nymag.com/v1/imgs/1b8/f2a/4d44c3ab8146d3e9a1460769bf4feb2303-GettyImages-1210449578.1x.rsocial.w1200.jpg",
+			"publishedAt": "2020-05-23T18:18:41Z",
+			"content": "Kristin Cavallari walked along the sandy beaches to the palapa so Kelly Ripa could run along the sandy beaches to the palapa. As revealed during an ABC town-hall meeting earlier this week, Ripa; her … [+1220 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Spanish anti-lockdown car protest draws thousands",
+			"description": "An opposition party urges people to protest from their cars in order to maintain social distancing.",
+			"url": "http://www.bbc.co.uk/news/world-europe-52783936",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11348/production/_112427407_hi061598025.jpg",
+			"publishedAt": "2020-05-23T16:34:36Z",
+			"content": "Image copyrightGetty ImagesImage caption\r\n The far-right Vox party urged supporters to protest the country's lockdown from their cars\r\nThousands of people in Spain are protesting against the governme… [+3797 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Berlin battle survivor Saturn the alligator dies",
+			"description": "His colourful history included escaping from a zoo and a rumour that he belonged to Adolf Hitler.",
+			"url": "http://www.bbc.co.uk/news/world-europe-52784240",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/850E/production/_112426043_f6aaa8fa-bbfa-48da-b984-e1478d4fac71.jpg",
+			"publishedAt": "2020-05-23T14:45:50Z",
+			"content": "Image copyrightMoscow ZooImage caption\r\n Saturn escaped from Berlin Zoo when it was bombed - but he didn't belong to Hitler\r\nAn alligator who survived World War Two in Berlin and was rumoured - wrong… [+2231 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "PM's chief adviser defends 260-mile lockdown trip",
+			"description": "Dominic Cummings, who is facing calls to quit, says he did the \"right thing\" by making the journey.",
+			"url": "http://www.bbc.co.uk/news/uk-politics-52782913",
+			"urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08f0x8b.jpg",
+			"publishedAt": "2020-05-23T13:30:26Z",
+			"content": "Media captionDominic Cummings: \"Who cares about good looks? It's a question of doing the right thing.'\r\nThe PM's top aide Dominic Cummings says he did the \"right thing\" by travelling 260 miles to be … [+6438 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC Sport",
+			"title": "La Liga can resume from 8 June, says Spain's prime minister",
+			"description": "La Liga can resume from 8 June, says Spain's prime minister Pedro Sanchez.",
+			"url": "http://www.bbc.co.uk/sport/football/52783201",
+			"urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/13590/production/_97584297_breaking_news.png",
+			"publishedAt": "2020-05-23T12:59:33Z",
+			"content": "La Liga can resume from 8 June, says Spain's prime minister Pedro Sanchez.\r\nThe league's president Javier Tebas said he had hoped Spain's top flight would restart on 12 June, although La Liga is yet … [+410 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "'All I could see was fire' - Pakistan plane survivor",
+			"description": "At least 97 people have died after a plane hit a Karachi residential area as it tried to land.",
+			"url": "http://www.bbc.co.uk/news/world-asia-52780289",
+			"urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08dy9xg.jpg",
+			"publishedAt": "2020-05-23T11:51:38Z",
+			"content": "Media captionThe crash happened in the Model Colony residential area\r\nOne of the survivors of Friday's plane crash in the Pakistani city of Karachi has described his ordeal, saying all he could see \"… [+4683 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "France announces quarantine plans for UK arrivals",
+			"description": "Travellers to France must self-isolate for 14 days, following similar measures announced by the UK.",
+			"url": "http://www.bbc.co.uk/news/uk-52781812",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14BCE/production/_112424948_hi061471543.jpg",
+			"publishedAt": "2020-05-23T11:01:59Z",
+			"content": "Image copyrightAFP / Getty Images\r\nPeople arriving in France from the UK will have to self-isolate for 14 days from 8 June, the French government has announced.\r\nIt comes after Home Secretary Priti P… [+5569 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Japanese wrestling star Hana Kimura dies aged 22",
+			"description": "The wrestler turned Netflix Reality TV personality had posted about online bullying before she died.",
+			"url": "http://www.bbc.co.uk/news/world-asia-52782235",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C244/production/_112423794_kimura.jpg",
+			"publishedAt": "2020-05-23T10:37:30Z",
+			"content": "Image copyrightGetty ImagesImage caption\r\n Kimura was one of six cast members on Japanese reality TV show Terrace House before filming was suspended\r\nHana Kimura, a professional Japanese wrestler who… [+3217 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Brazil court releases foul-mouthed Bolsonaro video",
+			"description": "It is part of a probe into allegations the president tried to replace top federal police officials.",
+			"url": "http://www.bbc.co.uk/news/world-latin-america-52779998",
+			"urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08dzp8c.jpg",
+			"publishedAt": "2020-05-23T07:48:19Z",
+			"content": "Media caption'I won't wait for my family to get screwed'\r\nBrazil's Supreme Court has released a video showing President Jair Bolsonaro expressing frustration that he was unable to change security off… [+3615 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Iranian Parkour athlete arrested over a rooftop kiss",
+			"description": "Alireza Japalaghy performs life-threatening stunts, but has been detained for 'vulgar acts'.",
+			"url": "http://www.bbc.co.uk/news/world-middle-east-52777891",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12E00/production/_112421377_p08dz11b.jpg",
+			"publishedAt": "2020-05-22T23:12:43Z",
+			"content": null
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "BBC News",
+			"title": "Biden: Black voters considering Trump 'ain't black'",
+			"description": "The Democrat later tries to limit the fallout by saying he has never taken black voters for granted.",
+			"url": "http://www.bbc.co.uk/news/world-us-canada-52773555",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F68/production/_111080804_gettyimages-1203462497.jpg",
+			"publishedAt": "2020-05-22T20:01:18Z",
+			"content": "Image copyrightGetty Images\r\nDemocratic White House candidiate Joe Biden has said in an interview African Americans \"ain't black\" if they vote for President Donald Trump over him. \r\nThe controversial… [+4458 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "Artemis Moshtaghian and Jay Croft, CNN",
+			"title": "Firefighters are battling a 4-alarm fire on Pier 45 in San Francisco - CNN",
+			"description": "More than 125 San Francisco firefighters are battling a four-alarm warehouse fire Saturday on Pier 45, the city's fire department says.",
+			"url": "https://www.cnn.com/2020/05/23/us/san-francisco-pier-45-fire/index.html",
+			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200523083745-01-san-francisco-fire-0523-super-tease.jpg",
+			"publishedAt": "2020-05-23T14:04:00Z",
+			"content": null
+		},
+		{
+			"source": { "id": null, "name": "Npr.org" },
+			"author": "",
+			"title": "What To Know As Israel's Netanyahu Goes On Trial For Corruption Charges - NPR",
+			"description": "The Israeli prime minister is due in court Sunday for corruption charges, including that he allegedly offered a media company regulatory favors for positive coverage.",
+			"url": "https://www.npr.org/2020/05/23/860166840/what-to-know-as-israels-netanyahu-goes-on-trial-for-corruption-charges",
+			"urlToImage": "https://media.npr.org/assets/img/2020/05/22/ap_19325565152576_wide-50dd45b5e890d4cf9b2e41c50b8b0af7269da64a.jpg?s=1400",
+			"publishedAt": "2020-05-23T13:02:38Z",
+			"content": "Israeli Prime Minister Benjamin Netanyahu speaks during a news conference in Tel Aviv last September. Netanyahu, the country's longest-serving prime minister, will go to court on Sunday charged with … [+5720 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Si.com" },
+			"author": "Michael Rosenberg",
+			"title": "Here's Why You Should Watch the Tiger-Phil Match II Featuring Brady, Manning - Sports Illustrated",
+			"description": "Sunday's Tiger-Phil Match II for charity will give a window into the dynamic between two golfing legends and two football legends. And maybe it will spark a new trend, too.",
+			"url": "https://www.si.com/golf/2020/05/23/tiger-phil-brady-manning-match-preview-celebrity-charity-golf",
+			"urlToImage": "https://www.si.com/.image/t_share/MTcyNzMzMjk5MDAzNzYyMzYy/phil-mickelson-tiger-phil-match.jpg",
+			"publishedAt": "2020-05-23T13:00:00Z",
+			"content": "There are two things that everybody should keep in mind about this Tiger-Peyton-Phil-Tom golf match. One is that Tiger Woods and Peyton Manning are clear favorites. Tiger is clearly a better player t… [+3989 chars]"
+		},
+		{
+			"source": { "id": null, "name": "9to5google.com" },
+			"author": null,
+			"title": "Here’s where Google Pixel Buds are still in stock - 9to5Google",
+			"description": "Google's Pixel Buds quickly sold out after launch, but the popular truly wireless earbuds are still in stock at some retailers. Here's where.",
+			"url": "https://9to5google.com/2020/05/23/google-pixel-buds-in-stock/",
+			"urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2020/04/google_pixel_buds_2.jpg?resize=1024,512",
+			"publishedAt": "2020-05-23T12:33:15Z",
+			"content": "Google’s Pixel Buds were announced all the way back in October of 2019, but they just hit the market earlier this month. Quickly, the wireless earbuds disappeared from virtual store shelves at many r… [+1648 chars]"
+		},
+		{
+			"source": { "id": "business-insider", "name": "Business Insider" },
+			"author": "Andrew Dunn",
+			"title": "Moderna: From startup to $25 billion biotech developing coronavirus vaccine - Business Insider",
+			"description": "Moderna has broken fundraising records and moved with historic speed to lead the race for a coronavirus vaccine. Can it live up to the hype?",
+			"url": "https://www.businessinsider.com/moderna-startup-to-biotech-developing-coronavirus-vaccine-flagship-pioneering-2020-5",
+			"urlToImage": "https://i.insider.com/5ec846c6f0f4197f0a626fd2?width=1200&format=jpeg",
+			"publishedAt": "2020-05-23T11:45:00Z",
+			"content": "In its short corporate history, Moderna has grown accustomed to breaking records.\r\nA $450 million funding round in 2015 was a record for the biotech industry. Moderna raised even more the next year. … [+18679 chars]"
+		}
+	]
 }

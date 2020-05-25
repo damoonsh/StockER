@@ -2,13 +2,15 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import axios from 'axios';
 
-const { ipcRenderer } = window.require('electron');
+// const { ipcRenderer } = window.require('electron');
 
 Vue.use(Vuex)
 
 export default new Vuex.Store({
   state: {
     news: [],
+    country: 'us',
+    apiKey: '84f2bbf63c7d4afe8419396d901fb246'
   },
   mutations: {
     SET_NEWS(state, payload) {
@@ -17,17 +19,16 @@ export default new Vuex.Store({
   },
   actions: {
     fetchNews({ commit }) {
-      axios('https://newsapi.org/v2/top-headlines?country=us&apiKey=84f2bbf63c7d4afe8419396d901fb246')
+      axios(`https://newsapi.org/v2/top-headlines?country=${this.$store.state.country}&apiKey=${this.$store.state.apiKey}`)
         .then(res => {
-          console.log(res);
-          commit("SET_NEWS", res);
+          console.log(res.json());
+          commit("SET_NEWS", res.json());
         })
         .catch(() => console.log("failed"));
     },
     closeApp() {
       console.log('planning on closing!')
-      // remote.getCurrentWindow.setFullScreen(true)
-      ipcRenderer.send('close')
+      // ipcRenderer.send('close')
     }
   },
   modules: {

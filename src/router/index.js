@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import News from '../components/News.vue'
+import News from '../components/News/'
 import SearchBar from '../components/SearchBar.vue'
+
 Vue.use(VueRouter)
 
   const routes = [

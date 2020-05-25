@@ -1,6 +1,8 @@
 <template>
     <div>
-        <v-card >
+        <v-card 
+            color="#FF8C00"
+        >
             <v-img
                 :src="this.news.urlToImage"
                 aspect-ratio="1"
@@ -20,15 +22,16 @@
             </v-card-subtitle>
 
             <v-card-actions>
-            <v-btn text>Share</v-btn>
 
             <v-btn
-                color="purple"
+                color="#033"
                 text
                 :href="this.news.url"
                 target="_blank"
+                outlined="true"
+                block="true"
             >
-                Explore
+                Read More
             </v-btn>
             </v-card-actions>
         </v-card>
@@ -40,7 +43,7 @@ export default {
     name: "news-holder",
     props:["news"],
     data: () => ({
-      show: false,
+
     })
 }
 </script>
