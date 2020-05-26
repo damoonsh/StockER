@@ -14,7 +14,7 @@
 
 
 <script>
-import { articles } from './mock.json';
+import { articles } from '../../../components/mock.json';
 import NewsHolder from './NewsHolder';
 
 export default {
@@ -35,7 +35,7 @@ export default {
 		.main-div {
       /* Grid */
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 2fr));
+      grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
       grid-gap: 1rem;
       grid-auto-flow: dense;
       /* Padding */
@@ -52,7 +52,7 @@ export default {
 		.main-div {
       /* Grid */
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 3fr));
+      grid-template-columns: repeat(auto-fit, minmax(150px, 3fr));
       grid-gap: 1rem;
       grid-auto-flow: dense;
       /* Padding */
@@ -69,7 +69,7 @@ export default {
 		.main-div {
       /* Grid */
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+      grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
       grid-gap: 1.0rem;
       grid-auto-flow: dense;
       /* Padding */

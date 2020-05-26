@@ -23,7 +23,7 @@
           <v-list-item 
           two-line :class="miniVariant && 'px-0'">
             <v-list-item-avatar>
-              <img src="../../public/me.jpg">
+              <img src="../../../public/me.jpg">
             </v-list-item-avatar>
             <v-list-item-content>
                 <v-list-item-title

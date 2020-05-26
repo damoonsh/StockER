@@ -28,8 +28,8 @@
                 text
                 :href="this.news.url"
                 target="_blank"
-                outlined="true"
-                block="true"
+                outlined
+                block
             >
                 Read More
             </v-btn>
