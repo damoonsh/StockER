@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
-import News from '../components/News/'
-import SearchBar from '../components/SearchBar.vue'
+import NewsPage from '../components/News/news-page/NewsPage.vue'
+import Header from '../components/Header/Header.vue'
 
 Vue.use(VueRouter)
 
@@ -15,13 +15,13 @@ Vue.use(VueRouter)
   {
     path: '/news',
     name: 'News',
-    component: News
+    component: NewsPage
   },
 
   {
     path: '/search',
     name: 'Search',
-    component: SearchBar
+    component: Header
   }
 ]
 

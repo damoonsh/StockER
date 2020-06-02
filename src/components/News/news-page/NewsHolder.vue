@@ -18,7 +18,7 @@
             <v-card-subtitle>
                 {{this.news.author}}
                 <br>
-                {{this.news.description.slice(0,100)}} 
+                {{this.news.description.slice(0,500 - this.news.title.length)}} 
             </v-card-subtitle>
 
             <v-card-actions>

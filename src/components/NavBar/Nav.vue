@@ -41,7 +41,7 @@
               :key="item.title"
               link
             >
-              <v-list-item-icon class="">
+              <v-list-item-icon>
                 <v-icon>{{ item.icon }} </v-icon>
               </v-list-item-icon>
 
@@ -49,21 +49,20 @@
                 <v-list-item-title>{{ item.title }}</v-list-item-title>
               </v-list-item-content>
             </v-list-item>
-            <button
+          
+          
+              <v-list-item 
+              link
               @click="closeApp"
             >
-              <v-list-item 
-              class="last-item" 
-              link
-            >
               <v-list-item-icon>
-              <v-icon>mdi-close</v-icon>
-            </v-list-item-icon>
-            <v-list-item-content>
-                <v-list-item-title>QUIT</v-list-item-title>
-              </v-list-item-content>
+                <v-icon>mdi-close</v-icon>
+              </v-list-item-icon>
+              <v-list-item-content>
+                  <v-list-item-title>QUIT</v-list-item-title>
+                </v-list-item-content>
             </v-list-item>
-            </button>
+            
             
           </div>
           
@@ -101,10 +100,6 @@ export default {
 </script>
 
 <style scoped>
-  * {
-    padding: 0%;
-    margin: 0;
-  }
 
   .nav-bar {
     position: fixed;

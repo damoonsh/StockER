@@ -1,3 +1,7 @@
+/**
+ * This is the code to fetch the news from newsapi.org
+ */
+
 /* eslint-disable no-unused-vars */
 // eslint-disable-next-line no-unused-vars
 const axios = require('axios');
@@ -55,8 +59,15 @@ async function fetchData(q, sources, category, country, apiKey='84f2bbf63c7d4afe
     .catch((err) => console.log('There have been an error: ', err))
 }
 
-fetchData(
-    '', '', 'entertainment', 'au'
-)
+// fetchData(
+//     '', '', 'technology', 'us'
+// )
 
+// fetchData(
+//     'trump', '', '', 'us'
+// )
+
+fetchData(
+    'technology', '', '', ''
+)
 

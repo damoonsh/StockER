@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 import axios from 'axios';
 
-// const { ipcRenderer } = window.require('electron');
+const { ipcRenderer } = window.require('electron');
 
 Vue.use(Vuex)
 
@@ -28,9 +28,11 @@ export default new Vuex.Store({
     },
     closeApp() {
       console.log('planning on closing!')
-      // ipcRenderer.send('close')
+      ipcRenderer.send('close')
+    },
+    openNews(url) {
+      console.log('News page')
+      ipcRenderer.send('open-news', url)
     }
   },
-  modules: {
-  }
 })

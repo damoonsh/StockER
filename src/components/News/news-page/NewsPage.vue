@@ -31,49 +31,54 @@ export default {
 </script>
 
 <style scoped>
-  @media screen and (min-width: 60em) {
-		.main-div {
-      /* Grid */
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
-      grid-gap: 1rem;
-      grid-auto-flow: dense;
-      /* Padding */
-      padding: 1rem;
-    }
-    .news-item {
-      padding-bottom: 1.5vh;
-      display: flex;
-      flex-direction: row; 
-    }
-	}
-
   @media screen and (min-width: 30em) {
 		.main-div {
       /* Grid */
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 3fr));
-      grid-gap: 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 2fr));
+      grid-gap: 1.5rem;
       grid-auto-flow: dense;
       /* Padding */
-      padding: 1rem;
+      padding-top: 1rem;
+      padding-left: 4rem;
     }
     .news-item {
       padding-bottom: 1.5vh;
       display: flex;
       flex-direction: row; 
+      width: 100%;
     }
 	}
 
-   @media screen and (min-width: 10em) {
+  @media screen and (min-width: 50em) {
 		.main-div {
       /* Grid */
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
-      grid-gap: 1.0rem;
+      grid-template-columns: repeat(auto-fit, minmax(330px, 3fr));
+      grid-gap: 1rem;
       grid-auto-flow: dense;
       /* Padding */
-      padding: 1rem;
+      padding-top: 0.8rem;
+      padding-left: 2.5rem;
+    }
+    .news-item {
+      padding-bottom: 1.5vh;
+      display: flex;
+      flex-direction: row; 
+      width: 100%;
+    }
+	}
+
+   @media screen and (min-width: 60em) {
+		.main-div {
+      /* Grid */
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 4fr));
+      grid-gap: 1.0rem;
+      grid-auto-flow: dense;
+     /* Padding */
+      padding-top: 0.5rem;
+      padding-left: 2rem;
     }
     .news-item {
       padding-bottom: 1.5vh;
