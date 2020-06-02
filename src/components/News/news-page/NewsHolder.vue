@@ -1,5 +1,7 @@
 <template>
-    <div>
+    <div
+        class="main"
+    >
         <v-card 
             color="#FF8C00"
         >
@@ -43,12 +45,16 @@ export default {
     name: "news-holder",
     props:["news"],
     data: () => ({
-
+        color: "#FF8C00",
     })
 }
 </script>
 
 <style scoped>
+.main {
+  width: 100%;
+  background: #ccc;
+}
     .news-image {
         display: flex;
         flex-direction: row;

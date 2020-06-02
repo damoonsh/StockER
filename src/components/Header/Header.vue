@@ -1,46 +1,28 @@
 <template>
-  <div>
-    <v-app-bar
-      color="deep-purple accent-4"
-      dense
-      dark
-    >
-      <v-app-bar-nav-icon></v-app-bar-nav-icon>
-
-      <v-toolbar-title>Stocker</v-toolbar-title>
-
-      <v-spacer></v-spacer>
-
-      <v-btn icon>
-        <v-icon>mdi-newspaper</v-icon>
-      </v-btn>
-      <v-btn icon>
-        <v-icon>mdi-newspaper</v-icon>
-      </v-btn>
-      <v-btn icon>
-        <v-icon>mdi-newspaper</v-icon>
-      </v-btn>
-
-    </v-app-bar>
+  <div class="header-main">
+    <h1>Header</h1>
   </div>
 </template>
 
 <script>
 export default {
   name: "Header",
-  data() {
-      return {
-          items: [
-        { title: 'Account', icon: 'mdi-account-box-outline'},
-        { title: 'Home', icon: 'mdi-home' },
-        { title: 'News', icon: 'mdi-newspaper' },
-        { title: 'Notifications', icon: 'mdi-notification-clear-all'}
-      ],
-    }
-  }
 };
 </script>
 
 <style scoped>
-
+.header-main {
+  position: fixed;
+  top: 0;
+  height: 50px;
+  line-height: 50px;
+  font-weight: bold;
+  font-family: Helvetica;
+  font-size: 30px;
+  background: darkcyan;
+  width: 100%;
+  padding: 0 20px;
+  color: white;
+  opacity: 0.2;
+}
 </style>

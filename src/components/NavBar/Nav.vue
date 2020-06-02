@@ -103,6 +103,8 @@ export default {
 
   .nav-bar {
     position: fixed;
+    margin-top: 3rem;
+    height: 100%;
   }
 
 </style>

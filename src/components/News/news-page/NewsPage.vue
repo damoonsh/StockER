@@ -31,6 +31,15 @@ export default {
 </script>
 
 <style scoped>
+  .main-div {
+    margin-top: 50px;
+  background: #ddd;
+  height: calc(100vh - 50px);
+  overflow: auto;
+  padding: 12px;
+  box-sizing: border-box;
+  }
+
   @media screen and (min-width: 30em) {
 		.main-div {
       /* Grid */

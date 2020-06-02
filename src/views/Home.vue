@@ -1,5 +1,6 @@
 <template>
   <div class="app-div">
+    <Header class="header-main"/>
     <Nav class="navbar" />
     <NewsPage class="news-page" />
   </div>
@@ -9,20 +10,22 @@
 // @ is an alias to /src
 import Nav from "../components/NavBar/Nav";
 import NewsPage from "../components/News/news-page/NewsPage";
+import Header from '../components/Header/Header';
 
 export default {
   name: "Home",
   components: {
     Nav,
-    NewsPage
+    NewsPage,
+    Header
   }
 };
 </script>
 
 <style scoped>
-* {
-  -webkit-user-select: none;
-  -webkit-app-region: drag;
+
+.app-div {
+
 }
 
 @media screen and (min-width: 30em) {
@@ -38,6 +41,7 @@ export default {
   }
 
   .news-page {
+    margin-top: 3rem;
      padding-right: 1rem;
     grid-column: 3/12;
   }
@@ -53,9 +57,11 @@ export default {
   .nav-bar {
     grid-column: 1/2;
     grid-row: 3;
+    
   }
 
   .news-page {
+    margin-top: 3rem;
      padding-right: 1rem;
     grid-column: 2 / 12;
   }
@@ -73,6 +79,7 @@ export default {
   }
 
   .news-page {
+    margin-top: 3rem;
      padding-right: 1rem;
     grid-column: 2/20;
   }
