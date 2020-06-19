@@ -11,5 +11,5 @@
 <h3>Interactive NavBar</h3>
 
 <p align="center">
-  <img src="/src/assets/showcases/nav-bar.png" width=30% height=30% alt="Demo-Nav"/>
+  <img src="/src/assets/showcases/nav-bar.png" width=20% height=20% alt="Demo-Nav"/>
 </p>
